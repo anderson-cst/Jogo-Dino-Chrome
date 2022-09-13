@@ -10,7 +10,7 @@
 
 - _**manipulação DOM**_
 
+  Acesso a aplicação 
   
-  
-  
+  https://anderson-cst.github.io/Jogo-Dino-Chrome/
 
